@@ -1,0 +1,23 @@
+.mobile-payment {
+    height: 90vh;
+    width: 100%;
+    background-color: #f6f9ff;
+    border-radius: 20px;
+    padding: 2rem 2rem;
+}
+
+.back-arrow {
+    font-size: 3rem;
+    color: $color-primary;
+    display: inline-block;
+}
+
+.right-icon {
+    font-size: 3rem;
+    float: right;
+    color: #64439e;
+    
+    & > * {
+        margin-right: 2rem;
+    }
+}
