@@ -1,3 +1,3 @@
 # natours-sass
 
-[Live Demo](https://sanjaymagar.github.io/rtk/)
+[Live Demo](https://sanjaymagar.github.io/natours-sass/)
